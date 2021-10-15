@@ -21,7 +21,7 @@
     font-size: medium;
   }
   
-  post__image > img {
+  .post__image > img {
     width: 100%;
   }
   
